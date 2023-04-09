@@ -1,7 +1,8 @@
 # Project-Supervisions
 
-I ahve supervised following projects as on April, 2022.
+I have supervised following projects as on April, 2023.
 
+–	Integration of Sensor based Circuit for Monitoring Leaf Temperature by Pinju Priyam Gogoi, Ridhiman Bora, Rizuwana Sultana Hussai (MCA), 2022 Monsoon.
 
 –	Web Based Information System for Medicinal and Aromatic Plants of Sikkim by Adarsh Sharma, Neeraj Anand, Nirmal Gupta (MCA), 2021 Spring.
 
