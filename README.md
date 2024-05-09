@@ -2,6 +2,8 @@
 
 I have supervised following projects as on April, 2023.
 
+* Retrieval Augmented Question-Answering on Indian Constitution and Indian Penal Code by Mayel Lyangten Lepcha, Pratiksha Phukon, Yogesh Lokhar, 2023 Odd.
+  
 *	Integration of Sensor based Circuit for Monitoring Leaf Temperature by Pinju Priyam Gogoi, Ridhiman Bora, Rizuwana Sultana Hussai (MCA), 2022 Monsoon.
 
 *	Web Based Information System for Medicinal and Aromatic Plants of Sikkim by Adarsh Sharma, Neeraj Anand, Nirmal Gupta (MCA), 2021 Spring.
